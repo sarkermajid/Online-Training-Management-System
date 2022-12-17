@@ -1,0 +1,11 @@
+OTMS =>
+1. a website containing home page, about page, training category, all training page, training details page,contact us
+page, enroll page, login/registration page, student dashboard.
+
+2. an admin panel where secure login system, admin can create and manage teacher,create category, admin can approve teachers course aslo select offer price,
+admin manage student registration, admin create and manage another admin. admin manage student.
+
+3. a teacher panel where secure login system, teacher can create course,manage course teacher can see student course registration
+and it's status.
+
+4. a student panel where secure login system, student can see their course registration and payment status.
