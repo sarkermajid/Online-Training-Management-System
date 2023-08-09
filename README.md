@@ -1,14 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Online Traning Management System
 
-##Online Training Management System
+## Project Descriptions
 
-1. a website containing home page, about page, training category, all training page, training details page,contact us
-page, enroll page, login/registration page, student dashboard.
 
-2. an admin panel where secure login system, admin can create and manage teacher,create category, admin can approve teachers course aslo select offer price,
-admin manage student registration, admin create and manage another admin. admin manage student.
+##Admin
 
-3. a teacher panel where secure login system, teacher can create course,manage course teacher can see student course registration
-and it's status.
+The Admin role in the system is responsible for managing student-related tasks. They have the following capabilities:
+1. Add New Students: The Admin can add new students to the system by providing essential information such as the student's full name, email address, unique roll number, department, and an optional image.
+2. Update Student Information: The Admin has the authority to modify the details of existing students, allowing them to keep the records up-to-date.
+3. Delete Student ID: The Admin can remove a student's record from the system, effectively deleting their ID and associated information.
+4. View Total Students: The Admin can access an overview of the total number of students currently registered in the system.
 
-4. a student panel where secure login system, student can see their course registration and payment status.
+##Teacher
+
+The Teacher's role is focused on managing course-related tasks. They have the following abilities:
+1. Add New Course: Teachers have the privilege to create and add new courses to the system, providing essential details about the course's name, content, and objectives.
+2. Offer Course: Teachers can make their created courses available for students by offering them. This action enables students to enroll and participate in the course.
+
+##Student
+
+The Students' role involves tasks related to accessing their personal information. They have the following capability:
+1. Search and View Information: Students can search for their specific details within the system using their department and roll number. This search functionality allows them to retrieve their relevant information, including their name, email address, roll number, and department.
+
+The system is designed to facilitate efficient management of student data, enable course creation and enrollment, and provide students with easy access to their personal records. The clear segregation of roles ensures that each user can perform their respective tasks without compromising the system's integrity.
+
